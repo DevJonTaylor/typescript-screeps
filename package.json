@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "name": "typescript-screeps",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevJonTaylor/typescript-screeps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevJonTaylor/typescript-screeps/issues"
+  },
+  "homepage": "https://github.com/DevJonTaylor/typescript-screeps#readme",
+  "dependencies": {
+    "@types/screeps": "^3.2.4"
+  }
+}
